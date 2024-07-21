@@ -1,4 +1,5 @@
 Retail Orders Data Project
+
 This project involves data cleaning, manipulation using Python, and managing a MySQL database table.
 
 Table of Contents
